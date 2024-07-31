@@ -1,0 +1,15 @@
+{
+  "name": "0x03-es6-data-manipulation",
+  "version": "1.0.0",
+  "description": "A project for ES6 data manipulation exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  }
+}

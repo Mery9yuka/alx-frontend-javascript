@@ -11,3 +11,4 @@ export default function handleProfileSignup(firstName, lastName, fileName) {
       value: result.status === 'fulfilled' ? result.value : result.reason,
     })));
 }
+
